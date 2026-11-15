@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "The plateau in liver disease mortality in Germany, 2000–2024"
+authors:
+  - family-names: Kumpf
+    given-names: Miriam
+    affiliation: "Department of Diagnostic and Interventional Radiology, School of Medicine and Health, Technical University of Munich"
+    orcid: "https://orcid.org/0000-0003-2290-648X"
+license: MIT
+repository-code: "https://github.com/m-kumpf/liver-mortality-germany"
+version: "1.0.0"
+keywords:
+  - chronic liver disease
+  - liver cirrhosis
+  - alcohol-related liver disease
+  - mortality
+  - Germany
+  - ICD-10
+  - epidemiology

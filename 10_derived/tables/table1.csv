@@ -1,0 +1,19 @@
+Cause,Sex,Age (years),2010 rate,2010 deaths,2019 rate,2019 deaths,2022 rate,2022 deaths,Change 2010–2022
+Alcoholic liver disease (K70),Men,45–64,31.3,3 480,24.0,2 994,26.0,3 224,-17%
+Alcoholic liver disease (K70),Men,65–74,36.3,1 605,35.3,1 431,38.9,1 702,+7%
+Alcoholic liver disease (K70),Men,≥75,21.8,619,18.5,742,19.7,732,-10%
+Alcoholic liver disease (K70),Women,45–64,12.6,1 414,8.9,1 116,9.5,1 192,-25%
+Alcoholic liver disease (K70),Women,65–74,12.8,629,12.1,547,13.7,669,+7%
+Alcoholic liver disease (K70),Women,≥75,6.6,302,6.7,367,6.9,351,+5%
+Fibrosis and cirrhosis (K74),Men,45–64,10.3,1 112,10.0,1 252,10.6,1 349,+3%
+Fibrosis and cirrhosis (K74),Men,65–74,23.9,1 067,27.0,1 074,30.4,1 325,+27%
+Fibrosis and cirrhosis (K74),Men,≥75,36.2,956,38.8,1 487,39.4,1 496,+9%
+Fibrosis and cirrhosis (K74),Women,45–64,5.1,555,4.4,549,4.9,625,-4%
+Fibrosis and cirrhosis (K74),Women,65–74,12.3,622,13.8,609,15.7,767,+28%
+Fibrosis and cirrhosis (K74),Women,≥75,21.0,980,21.8,1 257,21.0,1 193,0%
+K70 and K74 combined,Men,45–64,41.6,4 592,34.0,4 246,36.6,4 573,-12%
+K70 and K74 combined,Men,65–74,60.2,2 672,62.3,2 505,69.3,3 027,+15%
+K70 and K74 combined,Men,≥75,58.0,1 575,57.3,2 229,59.1,2 228,+2%
+K70 and K74 combined,Women,45–64,17.7,1 969,13.3,1 665,14.4,1 817,-19%
+K70 and K74 combined,Women,65–74,25.1,1 251,25.9,1 156,29.4,1 436,+17%
+K70 and K74 combined,Women,≥75,27.5,1 282,28.5,1 624,27.9,1 544,+1%
